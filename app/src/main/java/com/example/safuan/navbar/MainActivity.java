@@ -16,8 +16,9 @@ import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
-    // ini komen yang baru ditambahkan dan akan dicomit
-    // coba lagi
+    // ini komen yang baru ditambahkan dan akan dicomit (jalankan)
+    // coba lagi/
+    ////
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
